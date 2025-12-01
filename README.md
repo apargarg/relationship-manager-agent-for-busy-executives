@@ -29,7 +29,7 @@ Everything happens through a single conversational interface.
 ### ✔ Multi-Agent Architecture
 
 * **Main Relationship Manager Agent**
-* **Database Agent** (A2A)
+* **Database Agent** (Sub-agent)
 * **Gift Dispatch Agent** (A2A)
 
 ### ✔ Custom Tools
