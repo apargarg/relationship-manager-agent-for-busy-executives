@@ -105,7 +105,7 @@ flowchart LR
 .
 ├── relationship-manager-agent-for-busy-executives-capstone.ipynb
 ├── README.md
-├── /img
+├── /diagrams
 │   ├── architecture-diagram.png
 │   └── database-agent-seq_diag.png
 │   └── gift-dispatch-agent-seq_diag.png
