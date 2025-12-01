@@ -107,8 +107,8 @@ flowchart LR
 ├── README.md
 ├── /img
 │   ├── architecture-diagram.png
-│   └── demo-screenshots.png
-└── /db (optional)
+│   └── database-agent-seq_diag.png
+│   └── gift-dispatch-agent-seq_diag.png
 ```
 
 ---
