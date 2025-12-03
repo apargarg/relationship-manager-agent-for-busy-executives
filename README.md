@@ -203,15 +203,7 @@ relationship_manager_agent = Agent(
 
 ## 🎥 Demo Workflow (Video Script Provided)
 
-A full 3-minute YouTube script is included that walks through:
-
-* Problem
-* Why agents
-* Architecture
-* Demo
-* Impact
-
-You can use it to record the Capstone submission video.
+https://youtu.be/H4mp49VpA_s
 
 ---
 
