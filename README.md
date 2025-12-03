@@ -201,7 +201,7 @@ relationship_manager_agent = Agent(
 
 ---
 
-## 🎥 Demo Workflow (Video Script Provided)
+## 🎥 Project Demo
 
 https://youtu.be/H4mp49VpA_s
 
@@ -230,11 +230,6 @@ https://youtu.be/H4mp49VpA_s
 
    * LLM-to-SQL translation
    * Temporal queries (“people I met last quarter”)
-
-5. **Cloud deployment**
-
-   * Google Cloud Run
-   * Agent Engine
 
 ---
 
